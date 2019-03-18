@@ -1,0 +1,4 @@
+18-03-2019
+Ajouter les fichiers .c (main, fonctions) et le fichier .h(fonction)
+Ajouter les images du jeu (background, joueurs, obstacle...)
+ajouter des organigrammes du jeu
