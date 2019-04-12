@@ -1,0 +1,14 @@
+18-03-2019
+Ajouter les fichiers .c (main, fonctions) et le fichier .h(fonction)
+Ajouter les images du jeu (background, joueurs, obstacle...)
+ajouter des organigrammes du jeu
+
+
+
+les taches :
+2-3-4-5-19-20
+
+
+iyed :18-23
+10/11!!énigmes!
+
